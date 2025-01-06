@@ -1,0 +1,1 @@
+palindrome = input("entrez votre palindrome : "); print("el mot es une palinedrom") if palindrome == palindrome[::-1] else print("el mot es no une palinedrom")

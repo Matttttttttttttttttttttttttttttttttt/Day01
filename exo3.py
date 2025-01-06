@@ -1,0 +1,1 @@
+print(int(input("entrez votre magnifique température en celsius à convertir en degré de liberté américaine : ")) * 9/5 + 32)

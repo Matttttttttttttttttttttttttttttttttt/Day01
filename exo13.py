@@ -1,0 +1,1 @@
+print(set(sorted(map(int, input("entrez votre liste chaton: ").split(",")))))

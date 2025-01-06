@@ -1,0 +1,1 @@
+print(input("quel est votre magnifique nom ? : ") + " " + input("quel est votre bel âge mon cher ? : "))

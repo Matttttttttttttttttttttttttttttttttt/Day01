@@ -1,0 +1,1 @@
+print(eval(input("quel est votre calculation ? : ")))

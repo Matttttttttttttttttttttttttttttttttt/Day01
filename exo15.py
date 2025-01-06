@@ -1,0 +1,1 @@
+import random; num = random.randint(1,1000); life = 10; print(num); devine = int(input("devinez mon cher ")); exec("""while devine != num: print("plus haut très cher"); life -=1; print(life) if devine < num else print("plus bas tréor"); devine = int(input("nouvel essai :")) """); print("bien jouéé !!!!111!!11");

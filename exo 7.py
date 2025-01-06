@@ -1,0 +1,1 @@
+mot = input("entrez votre mot l'ami : "); sum(mot.count(i) for i in "aeiouy")

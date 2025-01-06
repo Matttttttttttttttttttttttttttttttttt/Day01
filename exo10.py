@@ -1,0 +1,1 @@
+notes = str(input("entrez vos notes chaton: ")).split(","); print(notes); print(sum(set(map(int, notes)))/len(notes))

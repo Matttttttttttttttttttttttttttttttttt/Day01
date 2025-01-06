@@ -1,0 +1,1 @@
+import random; print("".join(["azertyuiopqsdfghjklmwxcvbn1234567890&é(-è_çà)=^$*ù!:,"[random.randint(0, 52)]for i in range(int(input("nb de cara mon cher : ")))]))
